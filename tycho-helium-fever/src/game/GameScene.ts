@@ -1,7 +1,7 @@
 import Phaser from 'phaser';
 import type { Shell } from '../shell';
 import { MAP_W, MAP_H, BASE_X, BASE_Y, BUILD_RADIUS, RDV_A_OPEN, RDV_A_CLOSE, RDV_B_OPEN, RDV_B_CLOSE } from '../sim/constants';
-import { daylightFactor, isNight } from '../sim/sim';
+import { daylightFactor } from '../sim/sim';
 import { TILE_PX } from './art';
 
 const W = MAP_W * TILE_PX;
@@ -13,7 +13,6 @@ export class GameScene extends Phaser.Scene {
   declare shell: Shell;
   private overlay!: Phaser.GameObjects.Graphics;
   private nightRect!: Phaser.GameObjects.Rectangle;
-  private earthGlow!: Phaser.GameObjects.PointLight | Phaser.GameObjects.Arc;
   private crawlerSpr!: Phaser.GameObjects.Image;
   private buildingSprs = new Map<string, Phaser.GameObjects.Image>();
   private workLight!: Phaser.GameObjects.Arc;
@@ -55,9 +54,10 @@ export class GameScene extends Phaser.Scene {
     this.nightRect = this.add.rectangle(W / 2, H / 2, W + 800, H + 800, 0x1a2742, 0);
     this.nightRect.setDepth(10);
 
+    const dpr = (this.registry.get('dpr') as number) || 1;
     const cam = this.cameras.main;
     cam.setBounds(-160, -160, W + 320, H + 320);
-    cam.setZoom(1.5);
+    cam.setZoom(1.5 * dpr);
     cam.centerOn(BASE_X * TILE_PX, BASE_Y * TILE_PX);
     cam.setRoundPixels(true);
 
@@ -91,7 +91,7 @@ export class GameScene extends Phaser.Scene {
       this.dragStart = null;
     });
     this.input.on('wheel', (_p: unknown, _o: unknown, _dx: number, dy: number) => {
-      const z = Phaser.Math.Clamp(cam.zoom * (dy > 0 ? 0.9 : 1.1), 0.8, 2.6);
+      const z = Phaser.Math.Clamp(cam.zoom * (dy > 0 ? 0.9 : 1.1), 0.8 * dpr, 2.8 * dpr);
       cam.setZoom(z);
     });
 

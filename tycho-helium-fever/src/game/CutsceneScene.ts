@@ -63,10 +63,11 @@ export class CutsceneScene extends Phaser.Scene {
   }
 
   private layoutImage(img: Phaser.GameObjects.Image): void {
+    const dpr = (this.registry.get('dpr') as number) || 1;
     const { width, height } = this.scale;
-    const k = Math.max(width / 960, (height - 150) / 540);
+    const k = Math.max(width / 960, (height - 170 * dpr) / 540);
     img.setScale(k);
-    img.setPosition(width / 2, (height - 110) / 2);
+    img.setPosition(width / 2, (height - 120 * dpr) / 2);
   }
 
   private showPanel(i: number): void {

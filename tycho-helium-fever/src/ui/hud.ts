@@ -3,7 +3,7 @@ import * as C from '../sim/constants';
 import {
   setAssignment, setMaintainTarget, queueSurvey, setSweepTarget, purchase, buySupply,
   canDispatchShipment, dispatchShipment, bottlePurity, bottleQualifies, machineName,
-  fmtTime, daylightFactor, isNight, shipmentValue,
+  fmtTime, isNight, shipmentValue,
 } from '../sim/sim';
 import type { Assignment, CrewId, MachineId } from '../sim/types';
 import { activeObjectives, isUnlocked } from '../sim/campaign';
@@ -482,6 +482,11 @@ let lastUpd = '';
 export function updateHUD(shell: Shell): void {
   const s = shell.sim;
   const c = shell.campaign;
+
+  // cutscenes own the screen
+  const hud = document.getElementById('hud');
+  if (hud) hud.style.visibility = shell.cutsceneActive ? 'hidden' : 'visible';
+  if (shell.cutsceneActive) return;
 
   // clock + phase
   const night = isNight(s.t);

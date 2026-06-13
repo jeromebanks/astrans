@@ -36,6 +36,6 @@ export function pick<T>(r: RngState, arr: readonly T[]): T {
 export function hashNoise(seed: number, a: number, b: number): number {
   let h = (seed ^ (a * 374761393) ^ (b * 668265263)) >>> 0;
   h = Math.imul(h ^ (h >>> 13), 1274126177) >>> 0;
-  h ^= h >>> 16;
+  h = (h ^ (h >>> 16)) >>> 0; // keep unsigned: xor alone yields signed int32
   return h / 4294967296;
 }
