@@ -8,6 +8,8 @@ coverage/
 # Tool caches
 .vite/
 *.tsbuildinfo
+__pycache__/
+*.py[cod]
 
 # Logs
 *.log
