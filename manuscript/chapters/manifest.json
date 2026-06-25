@@ -1,0 +1,321 @@
+{
+  "title": "The Astrans",
+  "chapterCount": 35,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Tokaplex",
+      "part": "I",
+      "partTitle": "The Spark",
+      "slug": "01-the-tokaplex",
+      "filename": "01-the-tokaplex.md",
+      "wordCount": 1616
+    },
+    {
+      "number": 2,
+      "title": "Helium Fever",
+      "part": "I",
+      "partTitle": "The Spark",
+      "slug": "02-helium-fever",
+      "filename": "02-helium-fever.md",
+      "wordCount": 3316
+    },
+    {
+      "number": 3,
+      "title": "The Moon is Hard",
+      "part": "I",
+      "partTitle": "The Spark",
+      "slug": "03-the-moon-is-hard",
+      "filename": "03-the-moon-is-hard.md",
+      "wordCount": 4319
+    },
+    {
+      "number": 4,
+      "title": "Cold Storage",
+      "part": "I",
+      "partTitle": "The Spark",
+      "slug": "04-cold-storage",
+      "filename": "04-cold-storage.md",
+      "wordCount": 2094
+    },
+    {
+      "number": 5,
+      "title": "Argentina",
+      "part": "I",
+      "partTitle": "The Spark",
+      "slug": "05-argentina",
+      "filename": "05-argentina.md",
+      "wordCount": 3688
+    },
+    {
+      "number": 6,
+      "title": "Beyond Helium",
+      "part": "I",
+      "partTitle": "The Spark",
+      "slug": "06-beyond-helium",
+      "filename": "06-beyond-helium.md",
+      "wordCount": 6249
+    },
+    {
+      "number": 7,
+      "title": "Salty Metal",
+      "part": "I",
+      "partTitle": "The Spark",
+      "slug": "07-salty-metal",
+      "filename": "07-salty-metal.md",
+      "wordCount": 4671
+    },
+    {
+      "number": 8,
+      "title": "Ceres",
+      "part": "I",
+      "partTitle": "The Spark",
+      "slug": "08-ceres",
+      "filename": "08-ceres.md",
+      "wordCount": 6110
+    },
+    {
+      "number": 9,
+      "title": "Ceres Operations",
+      "part": "I",
+      "partTitle": "The Spark",
+      "slug": "09-ceres-operations",
+      "filename": "09-ceres-operations.md",
+      "wordCount": 2920
+    },
+    {
+      "number": 10,
+      "title": "Magazine Beach",
+      "part": "I",
+      "partTitle": "The Spark",
+      "slug": "10-magazine-beach",
+      "filename": "10-magazine-beach.md",
+      "wordCount": 2342
+    },
+    {
+      "number": 11,
+      "title": "Martian Ice",
+      "part": "I",
+      "partTitle": "The Spark",
+      "slug": "11-martian-ice",
+      "filename": "11-martian-ice.md",
+      "wordCount": 4128
+    },
+    {
+      "number": 12,
+      "title": "Ice Saw",
+      "part": "I",
+      "partTitle": "The Spark",
+      "slug": "12-ice-saw",
+      "filename": "12-ice-saw.md",
+      "wordCount": 5496
+    },
+    {
+      "number": 13,
+      "title": "Success Breeds Hard Work",
+      "part": "I",
+      "partTitle": "The Spark",
+      "slug": "13-success-breeds-hard-work",
+      "filename": "13-success-breeds-hard-work.md",
+      "wordCount": 2901
+    },
+    {
+      "number": 14,
+      "title": "Moving Day",
+      "part": "I",
+      "partTitle": "The Spark",
+      "slug": "14-moving-day",
+      "filename": "14-moving-day.md",
+      "wordCount": 6763
+    },
+    {
+      "number": 15,
+      "title": "Martian Industry",
+      "part": "I",
+      "partTitle": "The Spark",
+      "slug": "15-martian-industry",
+      "filename": "15-martian-industry.md",
+      "wordCount": 8625
+    },
+    {
+      "number": 16,
+      "title": "Quinceañero",
+      "part": "I",
+      "partTitle": "The Spark",
+      "slug": "16-quinceanero",
+      "filename": "16-quinceanero.md",
+      "wordCount": 4872
+    },
+    {
+      "number": 17,
+      "title": "Lunar Control",
+      "part": "I",
+      "partTitle": "The Spark",
+      "slug": "17-lunar-control",
+      "filename": "17-lunar-control.md",
+      "wordCount": 4380
+    },
+    {
+      "number": 18,
+      "title": "The Charter",
+      "part": "II",
+      "partTitle": "Jovian Resource Corporation",
+      "slug": "18-the-charter",
+      "filename": "18-the-charter.md",
+      "wordCount": 1516
+    },
+    {
+      "number": 19,
+      "title": "Twinkle, Twinkle, Little Star",
+      "part": "II",
+      "partTitle": "Jovian Resource Corporation",
+      "slug": "19-twinkle-twinkle-little-star",
+      "filename": "19-twinkle-twinkle-little-star.md",
+      "wordCount": 2312
+    },
+    {
+      "number": 20,
+      "title": "Baracoa",
+      "part": "II",
+      "partTitle": "Jovian Resource Corporation",
+      "slug": "20-baracoa",
+      "filename": "20-baracoa.md",
+      "wordCount": 1214
+    },
+    {
+      "number": 21,
+      "title": "Lunar Power Up",
+      "part": "II",
+      "partTitle": "Jovian Resource Corporation",
+      "slug": "21-lunar-power-up",
+      "filename": "21-lunar-power-up.md",
+      "wordCount": 3086
+    },
+    {
+      "number": 22,
+      "title": "Sidestep",
+      "part": "II",
+      "partTitle": "Jovian Resource Corporation",
+      "slug": "22-sidestep",
+      "filename": "22-sidestep.md",
+      "wordCount": 1053
+    },
+    {
+      "number": 23,
+      "title": "Space Freighters",
+      "part": "II",
+      "partTitle": "Jovian Resource Corporation",
+      "slug": "23-space-freighters",
+      "filename": "23-space-freighters.md",
+      "wordCount": 1393
+    },
+    {
+      "number": 24,
+      "title": "The Seine",
+      "part": "II",
+      "partTitle": "Jovian Resource Corporation",
+      "slug": "24-the-seine",
+      "filename": "24-the-seine.md",
+      "wordCount": 2291
+    },
+    {
+      "number": 25,
+      "title": "Jovian Research Institute",
+      "part": "II",
+      "partTitle": "Jovian Resource Corporation",
+      "slug": "25-jovian-research-institute",
+      "filename": "25-jovian-research-institute.md",
+      "wordCount": 1625
+    },
+    {
+      "number": 26,
+      "title": "L’Hôtel Bounty",
+      "part": "II",
+      "partTitle": "Jovian Resource Corporation",
+      "slug": "26-lhotel-bounty",
+      "filename": "26-lhotel-bounty.md",
+      "wordCount": 3140
+    },
+    {
+      "number": 27,
+      "title": "Heavy Lift",
+      "part": "II",
+      "partTitle": "Jovian Resource Corporation",
+      "slug": "27-heavy-lift",
+      "filename": "27-heavy-lift.md",
+      "wordCount": 3383
+    },
+    {
+      "number": 28,
+      "title": "Sinoplex",
+      "part": "II",
+      "partTitle": "Jovian Resource Corporation",
+      "slug": "28-sinoplex",
+      "filename": "28-sinoplex.md",
+      "wordCount": 1836
+    },
+    {
+      "number": 29,
+      "title": "Reach",
+      "part": "II",
+      "partTitle": "Jovian Resource Corporation",
+      "slug": "29-reach",
+      "filename": "29-reach.md",
+      "wordCount": 3825
+    },
+    {
+      "number": 30,
+      "title": "Batidas",
+      "part": "II",
+      "partTitle": "Jovian Resource Corporation",
+      "slug": "30-batidas",
+      "filename": "30-batidas.md",
+      "wordCount": 3529
+    },
+    {
+      "number": 31,
+      "title": "Tan’s Cantina",
+      "part": "II",
+      "partTitle": "Jovian Resource Corporation",
+      "slug": "31-tans-cantina",
+      "filename": "31-tans-cantina.md",
+      "wordCount": 1923
+    },
+    {
+      "number": 32,
+      "title": "Corporate Meddling",
+      "part": "II",
+      "partTitle": "Jovian Resource Corporation",
+      "slug": "32-corporate-meddling",
+      "filename": "32-corporate-meddling.md",
+      "wordCount": 1315
+    },
+    {
+      "number": 33,
+      "title": "Triangulation",
+      "part": "II",
+      "partTitle": "Jovian Resource Corporation",
+      "slug": "33-triangulation",
+      "filename": "33-triangulation.md",
+      "wordCount": 1918
+    },
+    {
+      "number": 34,
+      "title": "Proof",
+      "part": "II",
+      "partTitle": "Jovian Resource Corporation",
+      "slug": "34-proof",
+      "filename": "34-proof.md",
+      "wordCount": 1962
+    },
+    {
+      "number": 35,
+      "title": "Split Rigs",
+      "part": "II",
+      "partTitle": "Jovian Resource Corporation",
+      "slug": "35-split-rigs",
+      "filename": "35-split-rigs.md",
+      "wordCount": 1298
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write Review Loop"
+  short_description: "Iterative fiction drafting loop"
+  default_prompt: "Use $write-review-loop to draft and iterate a chapter."

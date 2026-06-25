@@ -1,15 +1,17 @@
 # Astrans
 
-This repository contains the *Astrans* manuscript, a chapter-by-chapter HTML
+This repository contains *Astrans* manuscript, a chapter-by-chapter HTML
 reading edition, and the browser game *Tycho: Helium Fever*.
 
-## Read the novel
+## Read novel
 
 ```bash
 make read
 ```
 
-Open <http://127.0.0.1:8765/novel/>. The reader includes:
+Open <http://127.0.0.1:8765/novel/>.
+
+The reader includes:
 
 - all 35 chapters split into individual pages
 - a searchable table of contents
@@ -18,11 +20,20 @@ Open <http://127.0.0.1:8765/novel/>. The reader includes:
 - reading progress and a continue-reading link
 - print-friendly chapter pages
 
-Rebuild the HTML after editing `astrans.md`:
+Rebuild HTML after editing `astrans.md`:
 
 ```bash
 make novel
 ```
+
+Split the manuscript into one markdown file per chapter:
+
+```bash
+make split
+```
+
+This writes per-chapter files and a `manifest.json` into
+`manuscript/chapters/`.
 
 The generated site is self-contained in `novel/` and can also be opened
 directly at `novel/index.html`.
@@ -39,8 +50,8 @@ make read PORT=9000
 make game
 ```
 
-This installs the game dependencies and starts Vite. Open the local URL printed
-by Vite. See [`tycho-helium-fever/README.md`](tycho-helium-fever/README.md) for
+This installs game dependencies and starts Vite. Open the local URL printed by
+Vite. See [`tycho-helium-fever/README.md`](tycho-helium-fever/README.md) for
 controls and architecture.
 
 ## Verify everything
