@@ -4,356 +4,230 @@
 
 ## **Chapter 7: Salty Metal**
 
-| Price of *³He* | $7,800,000/kg |
+| Price of *³He* | $7,000,000/kg |
 | :---- | :---- |
-| **Current Production** | **32 tons/month** |
-| **Current Consumption** | **40 tons/year** |
+| **Current Production** | **55 tons/month** |
+| **Current Consumption** | **55 tons/year** |
 | **Time Since Start** | **28 months** |
 
-José Torres was glassing the sky at night when he saw the fireball. He cranked *Peces de la Luna* up to forty knots, watching it disappear beyond the horizon. Seven minutes later, a second fireball appeared.
+The message from the Moon was eleven words and a signature.
 
-He glanced at a picture of his kids above the wheel, riding their bicycles.
+*Bowl seven away. Splash Thursday 0642. Ellipse B. Two still down. — Tan*
 
-*Peces de la Luna* was designed for a specific task: ten rapid deep-sea recovery operations at a time. The hull design was borrowed from a high-speed Italian ferry, the MDV 3000 Jupiter, allowing it to reach forty knots when fully laden. The ship was painted bright yellow, with a dark blue racing stripe, the fastest ship in Lázaro Cárdenas. Tonight, it was prepped for eight recoveries.
+Joaquín Reyes read it on the pier at Quintay, in the dark. Behind him, the *Pincoya*'s generators were warming. Two still down. As if he could forget. Two thousand tons of titanium sat on a drowned mountain three hundred sixty miles out, earning nothing. And the Moon was throwing a third.
 
-A second fireball showed as the first one hit the water. The sound of the splashdown took eight minutes to arrive.
+He looked up. The Moon hung over the coast range, gibbous and hard-edged. Somewhere up there, in a crater he would never see, a machine had just hurled twenty-two million dollars at the Pacific Ocean.
 
-Lunar librations gave a one-hour launch window each month. Tseng had launched eight targets during the window, three days ago. As they arrived, the Earth’s rotation was stretching those impacts into a thousand-mile line.
+"Mateo," he called down the pier. "Wake Beltrán. We sail at six."
 
-When the target struck the seabed, the thud played on the ships’ loudspeakers. The acoustic analyst triangulated the signals, calculating precise coordinates. Precision didn’t always mean accuracy. Five miles out, José called for the crew to shut off the engines. The sea around *Peces de la Luna* was suddenly still. He released a UUV, which swam a search spiral around the calculated impact site, finding the target less than a thousand yards away. 
+The *Pincoya* was a sheerleg crane vessel, Dutch-built, forty-one years old. In her youth she had been rated for twelve hundred tons. His grandfather had bought her at auction in Rotterdam and brought her around the Horn. She had raised sunken ferries and cleared the wrecked harbor at Talcahuano after the earthquake. Back then, ships still sank.
 
-José ordered a recovery glider to be prepared. An air compressor kicked on, inflating six support pylons attached to the fantail. When they were filled, the stern crane lowered the glider down onto them. The ropes, hawsers, and the lift bag had all been packed in the tail with the recovery kit. 
+Then ships stopped sinking. Satellite weather, double hulls, autopilots that never got drunk. The salvage trade starved politely for thirty years. By the time it passed to Joaquín, it was a crane with no wrecks and a family name on a rusting gate.
 
-Once the glider was secured, a chute laid three hundred tons of construction rubble evenly across the ballast box. Liquid oxygen and liquid hydrogen, each in corrugated thin-walled cans, insulated by syntactic foam, were strapped in place, completing the recovery kit. 
+Then the tender for lunar returns went up, posted by a Miami law office for a client that signed itself Tycho. Reyes read the ingot specification four times. He walked to the end of the pier and looked at the *Pincoya* for an hour. Then he mortgaged the yard, the ship, and his house in Valparaíso, and bid on the only job on Earth that needed a thousand-ton lift every ten days.
 
-José held off on launch. It took ten minutes to get a clear image from the UUV over the acoustic modem. When he was satisfied that the target’s shackle was undamaged, he signalled for the drop. The pontoons deflated, and the glider slipped off sideways. In a few seconds, the glider disappeared from view. He dropped an acoustic transponder buoy at the site so he could continue to communicate with the UUV, and *Peces de la Luna* sprinted to the next destination, two and a half hours away, to do it all over again.
+The terms were simple. Twenty percent of dockside assay went to Reyes. His costs were his own. There was one more clause, and it was the one he slept badly on: if the seabed backlog ever reached four bowls, Tycho could bring in a second operator.
 
-The glider dove fast. Every minute spent in the water meant more heat transfer into the cryoliquids and more boiling loss. As the pressure rose, the pressure relief bubbles became more of a shimmer than individual gas pockets. In thirty minutes, the glider flared and settled beside the target, seventeen thousand feet below the waves.
+A fresh bowl always got lifted first. He had to be on station for the splash anyway, and a fresh fix was a found fix. The longer a bowl sat, the deeper the ooze packed around its rim, and the harder the bottom held on. The two on the guyot could wait. They weren't going anywhere. That was the problem.
 
-The hawser extending from the lift bag was fourteen inches in diameter. The UUV guided the latching end to the shackle and locked it in place.
+They cleared the point at dawn and ran west. The swell was long and even on the beam. The trip took most of two days.
 
-Secured, the lifting bag was spread over the hydrogen tank, and the valve was cracked open, letting gas vent slowly into the bag. At this pressure, it was not so much a gas as a supercritical fluid, but it still rose in seawater. The seawater that came into contact with the hydrogen flash-froze and sank to the bottom of the bag. As the bag took shape, it centered itself over the bowl. The feed rate was increased, dumping tons of hydrogen into the bag. The UUV sprayed seawater into the bag at high pressure, warming the hydrogen. Snow fell softly through the supercritical hydrogen, collecting at the base of the bag. This continued until the hydrogen was warmed to ambient, around 3°C. The bag was forty percent full, pulling five hundred tons.
+The drop zone was a square of ocean forty miles on a side. In the middle of it, the summit of O'Higgins Guyot rose from the abyssal plain to within five hundred forty meters of the surface. A drowned mountain with a flat top. The rest of the Pacific out here was four thousand meters deep. Titanium that missed the summit was gone forever. The guyot was the reason any of this worked. A catcher's mitt the size of a province, and in the middle of it, a table.
 
-The UUV fed oxygen in through a catalytic combustor, heating the hydrogen from abyssal cold to 400°C. The heat expanded the hydrogen until the bag was filled, reaching eleven hundred tons of buoyancy. The thousand-ton bowl weighed less than eight hundred tons in seawater, but the lift wasn’t enough. Nothing moved.
+A Chilean Navy patrol boat held the northern edge of the box. At 0620 Thursday, Reyes stood at the bridge wing rail, a coffee going cold in his hand. The whole crew had found reasons to be on deck.
 
-José relayed another command to the UUV, ineffectually trying to rock the bowl. He then had it circle the bowl, using its thrusters to blow the silt away. 
+Mateo came up with the radio log. "The Navy wants to know if the window holds."
 
-As he sat watching the UUV work, he looked at the size of the bowl. “A billion pesos for just that one bowl, enough to keep the bank from seizing my company.” 
+"The window is the Moon's. Tell them to ask Tycho."
 
-Forty minutes passed before the bowl shifted. The lift of the bag overcame the suction of the silt. A snap sounded over the ship’s loudspeakers as the suction let go and the bowl lifted free. The crew on *Peces de la Luna* cheered.
+It came in out of the northwest, higher and steeper than instinct allowed. A white scratch drawn down the sky. The double crack of the shock wave arrived late and rolled over the ship. For the last few kilometers, the bowl was a black speck under a smear of ablation smoke.
 
-The bowl rose quickly, spilling gas from the base of the lift bag as pressure decreased. The bowl was fluttering, jerking the hawser violently. José had the UUV pull the vent line, reefing the base of the Kapton gas bag. At five hundred feet, the vent was reefed further, slowing ascent to six inches per second.
+The sea stood up. A white column climbed out of the horizon, stood, and folded back into spray. The sound came after, flat and enormous, more felt than heard. Reyes marked the bearing and counted seconds out of habit.
 
-When the bag breached, the bowl’s momentum kept it rising, slackening the hawser. With no lifting force, gravity won. The bowl descended, snapping the hawser taut, pulling the bag back under. It continued bobbing dangerously for a minute before the bowl hung dead in the water. José made a note: “Next time, slow to four inches per second.”
+The descent track had passed nearly overhead. A minute later, it rained glass. Fragments of the shield, black frozen spray no bigger than coins, pattered into the sea around them and hissed where they hit. Mateo snatched one off the foredeck grating. It was still warm.
 
-In two hours, *Pleamar* arrived, well deck already awash. Divers pulled a rubber donut under the bowl and inflated it until the rim of the bowl rose above the waterline. The gear was hauled up onto the dry half-deck, where it was washed and fogged with deionized water. The ropes, hawsers, and lift bag were all transferred into a freshwater soak tank with Salt-Away.
+"For luck," he said, pocketing it.
 
-*Pleamar’s* heavy three-hundred-ton crane could not lift the bowl, but it had enough authority to precisely position it over a pedestal. Once in place, the donut was vented until the bowl made solid contact with the wooden shoes on the pedestal. 
+"Luck is for people without winches," Beltrán said.
 
-*Pleamar* purged its tanks. When the cargo deck was dry, they retrieved the donut, washed it, and stowed it for the next recovery. The bowl was rinsed with soap and deionized water. Recovery had taken four hours from arrival to having the bowl strapped in place. *Pleamar* was again underway, headed to the second target.
+"Bowl seven," Reyes said. "Get the fish wet."
 
-After the final drop, José called Felipe. “Every bowl was intact. A couple of shackles were bent, but no real problems. How is the mill?”
+\*\*\*
 
-“*Mano*, good to hear from you. I have the crew scrubbing the walls and ceilings now. This will be a surgical cleanroom when you get back. How far out are you?”
+The impact plume took four hours to settle. Mateo flew the ROV down through water like milk, cumbia playing thin in the control van. The summit resolved in the floodlights. Pale ooze, ripple marks, dark crumbs of shield glass. Then the scar.
 
-“We don’t have enough fuel to sprint back. We dropped down to thirty knots. I should be back in two days.”
+"There," Mateo said. "It skipped again."
 
-“Should I deploy the grillage?”
+The first strike had gouged a trench forty meters long. The bowl lay seven hundred meters downrange. When the sonar painted its position, the van went quiet. Beltrán came in from the deck to look.
 
-“We can do that after I get back. The cargo won’t arrive for another six days.”
+Thirty-five meters from the southern rim. Past that edge, the flank fell away to three thousand nine hundred meters.
 
-“We will scrub the dock down, anyway. Now, *carnal*, I have someone here who wants to talk to you.”
+"Tseng promised these things land flat," Mateo said. "Land flat, sit flat, wait politely."
 
-Felipe handed the phone to Maria. “José, the bank called again. They are starting foreclosure proceedings.”
+"They glide," Reyes said. "A bowl coming down face-first planes like a coin in a fountain. Five hundred meters of water, and it still carries. Nobody can model the skip. Not even the man who throws them."
 
-“It’s going to be OK*, vieja*. Once I sell this load, we’ll have enough. They won’t take our villa. Where are the kids?”
+"He could aim north of center."
 
-“I brought them here with me to help Felipe clean the factory. Mateo is scrubbing the lunchroom floor. He works very hard for a ten-year-old man.”
+"He aims at the middle of the table. The skip picks the address."
 
-“And Sofia?”
+The bowl sat tilted eight degrees, convex face down, its leading lip buried a meter in sediment. In the lights, it didn't look like cargo. It looked like architecture. Fourteen meters across. A meter thick at the rim. Patched black with shield glass and already dusted with settling ooze.
 
-“Sofia is why Mateo needs to scrub the lunchroom floor.”
+Cast into the concave face, dead center, was a boss the size of an engine block with an eye through it. Beside the eye, raised in the metal itself, were a serial and a QR code. TYCHO 07. On the Moon, someone had thought about the man who would come for it. Reyes appreciated that more every time he saw it.
 
-*Pleamar* picked up the five nearest bowls over the next two days, and *Bajamar* got the three farthest ones. José stayed on the phone with the captains for every recovery. There was no time for more than short naps on the trip, and when he got back, there were more preparations.
+They rigged at first light on the slack. The main sling was braided Dyneema as thick as his thigh, four legs seized to a forged master link, near weightless in the water. The hydraulic shackle closed through the eye like a jaw. Mateo walked the pin into the boss on the third try. Green light on the panel.
 
-*Bajamar* made it back to port first. José and Felipe had laid out the plywood and two-inch steel plate grillage before it arrived. When *Bajamar* backed into its berthing slot, they extended the grillage to cover the ramp and the ship’s deck.
+Six hundred meters of line. A thousand tons of the Moon.
 
-Then SPMTs came like an army of ants, lifting the bowls from their pedestals, carrying them slowly off the ship to the fabrication room.
+Beltrán ran the winches himself. He was sixty, deaf in one ear from a working life inside chain lockers. He took the load in steps, reading the needle. "Four hundred." A pause. "Six." The mooring spread creaked. "Seven-fifty."
 
-The alpha case was milled off under argon. The clean bowls were melted under vacuum and poured into ten-ton molds. The outer three millimeters of each ingot were milled away, remelted, and cast into industrial titanium. Each bowl took thirty hours. When they were done, the aerospace-grade titanium was loaded onto different boxcars than the industrial titanium. Felipe swept up the spatter and alpha case swarf and sold it separately to ArcelorMittal*.*
+At seven hundred eighty tons, the bowl's whole submerged weight, nothing moved.
 
-José signed the shipping documents, and it was the CPKC Railroad’s responsibility to deliver the titanium. One week until the next operation.
+"Suction," Beltrán said. "The lip is glued."
 
-Maria put away the bills when she saw him coming in the door. “José, we haven’t seen you in so long.”
+"Keep going."
 
-José opened his arms, hugging her and his kids all together. “Maria, I’ll be home more this week. What’s for dinner?”
+"Eight-fifty." The *Pincoya* leaned. The swell snatched at the load with each crest, spiking the needle fifty tons at a time. "Nine hundred." Somewhere below, a buried rim of titanium clung to the seafloor, and the difference was coming out of a forty-one-year-old frame. "Nine-eighty. That is enough, Joaquín."
 
-He fell asleep during dinner. Maria and Mateo moved him to his bed, where he slept sixteen hours straight. When he woke, the kids were already at school, and his wife was getting groceries. He sat in his chair and drank a Coke, staring at the clouds. 
+"Hold it there. Mateo, the lance."
 
-The next day, *Pleamar* and *Bajamar* were preparing to leave. He helped scrub the decks. They each took four hundred tons of MGO. When he paid the fourteen-million-peso bill, he wished they ran on LNG. Or at least were painted more brightly.
+After bowl four, they had welded a jetting lance to the ROV's frame and plumbed it to a pump on deck. It was ugly. It had cost a week he didn't have. It was the best money he'd spent all year.
 
-Over the next few days, the gear was all inspected and prepped for the next operation. One of the hawsers showed internal fraying under X-ray and was discarded. Two lifting bags needed patching, and one of the gas bags tore and needed to be replaced. All the eye thimbles were hammered and had to be replaced. The marine supply store behind his mill had woven all his bags and ropes. They were happy to do the repairs and replace the parts. 
+Mateo tucked the ROV against the buried lip and cut water in under the rim. The plume blossomed and killed the cameras. He flew by sonar, working the lance along the lip, while the van listened to the winch brakes creak through the deckplates.
 
-The crew was loading up *Peces de la Luna* when José got a call from Elin. “You sent me seven thousand tons of aerospace-grade titanium and seven hundred tons of industrial-grade. I got a report back from metallurgy. The quality is outstanding. I can pay seventy dollars per kilogram for the aerospace-grade titanium, and thirty per kilogram for the rest.“
+The needle dropped two hundred tons in under a second.
 
-José calculated his cut. Twenty per cent would give him $1.8 billion pesos. Suddenly, his mill’s two hundred million peso debt didn’t seem so bad. “Yes, ma’am. Thank you, ma’am.”
+The stern kicked. The slings sang a note Reyes felt in his teeth. The sonar return smeared sideways, sliding, yawing toward the rim as one edge let go before the other. Three meters. Five.
 
-“Do you plan on sending us any more?”
+"Come up, come up." Beltrán already had the drums turning.
 
-“I’d like to. I am about to pick up some more.”
+The trace lifted off the bottom. It steadied, swinging slow and heavy under the ship. For a moment, the pump was the only sound. Then Mateo turned his music back up.
 
-“Look, I am behind my targets, and your titanium is really helping. You run a steel mill? Do you know how to fabricate high-purity titanium?”
+"Positive load," Beltrán said. "Seven-eighty and quiet. It's ours."
 
-“Sure,” he lied.
+Reyes let his breath go. Thirty-five meters. The bank would never hear how close the money had come to a four-kilometer grave. He wrote it in the log the way his grandfather would have. *Breakout complicated by suction. Resolved.*
 
-“If you could send me twelve-gauge titanium sheet metal, I’d pay double. I can send you the specs. You would really be helping me out.”
+The hoist took three hours. They never brought the bowl above the surface. In air, it got back its full thousand tons, and no crane he could afford would swing that in a seaway. They raised it to thirty meters below the keel, hung it in a cradle of chain and Dyneema, and seafastened everything twice.
 
-“Of course, *Senora*.”
+Then they turned for home at four knots, the Moon's cargo riding beneath them like a keel from another century's ship. The tow took three and a half days. Twice a watch, somebody went aft to check the chafing gear. Nobody had to be told. On the second night it was Beltrán himself, lamp in hand.
 
-“Thank you, José.”
+"Chafe?" Reyes asked.
 
-“*De nada*.”
+"Not a fiber."
 
-José called Felipe. “I just got off the phone with Dr. Elin Sarai.”
+"Check it again."
 
-“From Biloxi? Did she buy it?”
+"I am sixty years old, Joaquín. I was already checking it again."
 
-“She loved it. The money is already in the company’s account. She wants more.”
+\*\*\*
 
-“Well, she’ll get more. You are shipping out tonight, right?”
+Quintay had been a whaling station once. For thirty years, the ramp on the south side of the cove hauled blue whales out of the Pacific to be rendered down. The last one came up the rails in 1967, and the station died. Reyes had grown up in the ruins. When the tender money came through, he knew exactly what a slipway built for hundred-ton animals could become. New rails. New cradles. Winch houses where the flensing decks had been.
 
-“Yes, but she wants us to make sheet metal. She will pay double for twelve gauge. Can we do that?”
+They came in on the morning tide and floated the bowl over the submerged cradle. The tide fell, and the bowl grounded. Divers pinned it. Then the shore winches took up, eight parts of wire to each drum, and a thousand tons of titanium came out of the sea at the speed a plant grows. Streaming water. Up the same ramp the whales had come.
 
-“I’m on it, *carnal*. You go get the next delivery.”
+The yard smelled of salt and metal. Half the town watched from the rocks. Kids along the seawall. Old men who remembered the whales, saying nothing at all.
 
-José put to sea. He had twelve hours to the first deployment. He glassed the sky, but there was nothing yet. 
+Beltrán stood at the head of the ramp, one hand on the winch house.
 
-He was in the mess hall when Li called. “I saw the deposit in my account. Four hundred million dollars.”
+"My father flensed whales where this winch house stands," he said. "Sixty men, day and night. He told me the ramp would outlive the work. I thought he was wrong."
 
-“Yes. How is that?”
+"Half wrong," Reyes said. "The ramp needed different work."
 
-“That means my cut is fifty million per bowl. We just launched ten more.”
+Out of the water, the bowl was a mess. Sheet salt dried white across the crown. The shield glass was crazed and flaking in continents. A skirt of gray ooze ringed the rim. The crew went at it in shifts, pressure washers first, then needle guns, chipping down to bare metal the color of an overcast sky. The glass fell in a brittle black drift around the cradle.
 
-“Tan, she said if I can roll it into sheets, she will pay double.”
+"Half the coast is watching us chip glass," Mateo said.
 
-“Whatever you want to do is fine with me, but if you screw up the sheets, and Elin won’t buy them, I still expect my five hundred million dollars.”
+"They watched the whales," Reyes said. "Keep chipping. Every kilo goes in the drums. Helion docks us for anything on the scale that isn't titanium."
 
-“Yes, ma’am. I have been wondering, why me? I mean, there are much bigger names in metal and shipping and whatever you want to do. Acero del Pacífico is small fry.”
+The lab was a shipping container with a window cut into it. They cored coupons with a mag drill: skin, ten millimeters down, and deep from the eye boss. The analyzers were still cycling when he called Biloxi.
 
-“Your location is convenient for me. I could have asked ArcelorMittal to help instead, and I am sure they would have agreed. This would be one of their most important product lines. I would sit in the front row. That’s nice. But with you, I don’t sit in the front row. I sit alone. I told you I wanted you to have ships, a new dock, and cogeneration ready in a year. ArcelorMittal would agree, but there would be analyses and meetings, and two years later, they still wouldn’t be done. I lent you the money; you did the impossible. I told you I wanted to get paid, regardless of any other problems. You said, ‘Yes, ma’am.’ I trust you. Not because I know you or you are trustworthy, but because you have no choice. That takes the stress out of it, for me.”
+Elin Sarai took the call on the first ring. Behind her, through glass, cranes tracked over a floor the size of a stadium. Biloxi was never dark and never quiet, whatever hour he called.
 
-“I understand. But Tan, you have lent me ten billion pesos to buy the ships and build out our dock. It is so much.” 
+"Señor Reyes. Show me the numbers."
 
-“The loan is real, and I expect to get paid back, but don’t hurt your business to pay me back. When you are comfortable, let Elin give me part of your share. The first months are hard, but it will not be hard forever.”
+He held the slate to the analyzer readout. She was silent for a moment. He had learned that her silences were the negotiation.
 
-The run had ten targets. A couple of the shackles were bent, as before, but this time, one shackle sheared off completely, making it unrecoverable. José called on the way back. “Felipe, I am coming in. The third bowl was unrecoverable. The shackle was shorn clean off.”
+"Alpha case to two millimeters," she said. "Oxygen, six hundred parts per million underneath. Hydrogen, forty. Iron, trace." She looked up. "Do you understand how strange these numbers are? On Earth, I buy sponge that fought for its life in a chlorine plant. This was cast in hard vacuum and quenched in the sea. The Moon is a better foundry than anything I can build."
 
-“Tan is going to take that out of our cut.”
+"The skin took the reentry for it."
 
-“Not if I recover it. I am not sure how. I need you to set me up with two packs and a bunch of extra hawsers. I don’t have a real plan yet.”
+"The skin is scrap. Machining allowance, two and a half millimeters. I'll buy the peel separately at scrap grade." She was already writing. "Twenty-two dollars a kilo for the body. Dockside at your yard. Paid on assay within a day."
 
-“If you are shipping out as soon as you get back, does that mean I will be handling the offloading and processing myself this time?”
+"Twenty-four. You've seen the oxygen."
 
-“Are you OK with that, Mano? You only need to process *Bajamar’s* load. *Pleamar is* keeping station now for the rescue.”
+"Twenty-two, and I take every bowl you can raise for two years. No exceptions." She set the stylus down. "Tokaplexes twelve, thirteen, and fourteen are pacing on titanium, Señor Reyes. I have twenty cores in backlog, and Raines sells three more every time I turn my back. I am not shopping. I am securing supply."
 
-“I will take care of it. I am sending the truck to Liquide Aire to get the oxygen and will have two hydrogen containers and all the gear ready when you arrive.”
+Reyes looked out the window at the bowl on the cradle. Then at the sea, where two more waited under it. "Done."
 
-“Gracias, carnal. I am two days out.”
+"Good." Something dry came into her voice. "And rinse them properly. I am paying for titanium, not salt."
 
-*Pleamar* had held station for three days when José got back to the site of the unsalvaged bowl. The captain had already sent down two UUVs to search for the shackle and found nothing. He dropped a fresh UUV and the first glider.
+The money landed the next day. Twenty-two million and change against the body weight. Tycho's eighty percent went up the relay an hour later. Reyes paid the crew a bonus and the bank its pound, and stood the yard a *curanto* on the beach that lasted until the tide put out the fire.
 
-When they got down, he had them wrap a long hawser around the bowl, then used a mechanical cinch to tighten it. When the lift bag started pulling, he saw the problem. The bowl had been settling since it hit the bottom. If he had taken another week, it would probably be covered in silt. The sticktion force was beyond anything he had anticipated. He kept the lift bag hot at eleven hundred tons of buoyancy while he sent the second glider. 
+Eleven days, pier to pier. The first bowl had taken nineteen. The fourth, sixteen. In the morning, they started the turnaround for the two still on the guyot.
 
-This time, he used a net made of one-inch rope. Two UUVs pulled it under the bowl, moving through the silt. Progress was imperceptible. José had them saw it back and forth under the bowl. Progress was still slow, but he could see it, every stroke a few inches. Four hours later, the net was completely secured. José connected it to the second lift bag and put in a little hydrogen to give it tension. The net could only hold about two hundred tons safely.
+Reyes was working the loading list at the pier when the helicopter came in low over the point. White. No livery. It settled on the flat above the ramp without asking anyone.
 
-The problem now was the first bag. It was losing lift fast. The first oxygen tank was empty, the hydrogen was cooling off, and slowly permeating the Kapton inner bag. The second glider still had cryogens, but the syntactic insulation was meant for a fifteen-minute dive, not four hours of sitting. 
+\*\*\*
 
-José put another five tons of hydrogen in the second bag, but didn’t heat it. He moved what was left of the second hydrogen tank to the first bag and used the oxygen to heat that. 
+He knew the face the way everyone on Earth knew it. What surprised him was that it came alone. No assistants. No security that showed. Just a man in an open collar walking down the whale ramp with his hands in his pockets, reading the yard as he came. The rails. The winch houses. The drums of black glass. The bowl.
 
-While the first bag warmed and expanded, the UUVs roped the two gliders and the cryotanks to the net so they wouldn’t get lost. When the temperature rose to three hundred degrees, less than a thousand tons of lift, José thought he saw the bowl lifting. There was no pop. He asked the crew if they were seeing what he was seeing. As they tried to decide if it was moving at all, it sped up. There was no pop, but the bowl was rising.
+"Tobias Raines." He put out his hand. "You fished my titanium out of the ocean."
 
-The net had broken the sticktion. Pulling that through had given water a hundred channels to flood in behind the bowl as it was lifted from the mud. Everyone cheered. The Pleamar captain blew the foghorn. José loved that and blew *Peces de la Luna’s* dual-tone foghorn.
+"Doctor Sarai's titanium. She was very clear about that."
 
-Because of the noise, José didn’t notice it at first. There was a metallic crashing sound as the bowl rose. The UUV showed the culprit; two gliders were smashing into each other and the cryotanks, now filled only with water, were beating each other like drums.
+Raines laughed, warm and immediate. Then he turned to the bowl and took his time with it, the way the old men had. He walked the cradle end to end. He laid his palm flat on the machined gray flank and left it there.
 
-He reefed the hem of the first bag, but by now, the hydrogen in the second bag had warmed to ambient, and as the pressure dropped, it expanded. He heard a loud pop. A UUV flew under, and he could see that a link in the net had broken. He was past the safety margins. He gave the command for the UUV to reef the second bag, but as it started going up, a couple more segments popped, then it was like tearing fabric. The second bag was now lifting a torn and empty net and the gear. It shot up like a rocket, hitting the first lifting bag, forcing it to burp its lifting gas. One of the gliders hooked on the first bag, dragging it up a ways before letting go. The equipment on the second net was going far too fast to be stable. The tanks and gliders were kiting back and forth, smashing into each other. 
+"Elin buys the metal and I sign the wires," he said. "I never asked how it got to the dock. Show me."
 
-It hurt to watch his equipment smash itself to pieces, but it could all be replaced for a million pesos. The bowl was worth nearly a billion pesos. He tried to keep it in perspective.
+They walked the yard. Raines asked, and Reyes answered, and the questions were the right ones.
 
-The screen had the rate of rise. The bowl had good momentum, and the lift bag was still pulling, but the numbers were slowing down. Twenty meters per second dropped to fifteen, dropped to ten. If it stopped rising, there was nothing he could do for it. As long as it continued to rise, the gas was expanding, increasing the lift. He was helpless and didn’t know what speed would show failure. 
+"How long from splash to this ramp?"
 
-The second bag breached. His crew pulled it and the smashed gear up on *Peces de la Luna’s* deck. José kept watching the rise rate, which had dropped to less than a meter per second. He remembered he would slow them down more than that when they breached. If the issue was buoyancy, he was fine. If it was momentum…
+"Five days, when the weather is kind. Eleven pier to pier, with the wash and the assay. The first bowl took nineteen."
 
-At seven thousand feet, the number went back up to a meter per second. José let his breath out. He realized he hadn’t breathed for over a minute. 
+"What changed?"
 
-The rise continued and accelerated, but José kept it reefed tight. No extra strain on the gear. *Peces de la Luna* and *Pleamar* both waited, giving a half-mile clearance for the assembly to surface. This time, *Peces de la Luna* took the lift bag and hawsers. When the bowl was secured on Pleamar, the teams got together for a moment of celebration before going home.
+"We stopped being surprised. A lance for the bottom suction. A cradle under the hull instead of a deck lift. These rails instead of a port crane." Reyes shrugged. "None of it is new. Most of it is older than the Moon landings. We just stopped needing luck."
 
-José called Felipe on the way back. “We got the bowl.”
+"A system," Raines said.
 
-“Fantastic. How did it go?”
+"A system with one ship, one ramp, and a bank."
 
-“Smooth and easy. Sort of.”
+Raines crouched at the drums and picked out a shard of shield glass, black and curved like a piece of a broken bell.
 
-“José, you need to talk to Tseng. He can fix this problem.”
+"What breaks first, if the Moon throws faster?"
 
-“It wasn’t a problem. I just had to go out again.”
+"The ship. One hull can't cycle under nine days, weather paid. Then the ramp. Then the guyot itself, if bowls start landing on bowls."
 
-“Carnal, this was a problem. Talk to them.”
+"How many are on the bottom right now?"
 
-José called Li, Darrin, and Tseng. “On the first drop, there were bent shackles, but I didn’t worry.”
+"Two." Reyes kept his voice even. "At four, Tycho can bring in a second operator. It's in the contract."
 
-“How badly?” Tseng asked.
+"I know your contract." Raines turned the shard in the light. "Buy the second ship. My office will call your bank this week. The terms will improve."
 
-“I didn’t see it as a problem. We were able to recover them. But on this run, one of the shackles was shorn off completely, probably on a sideways splashdown. We never found the shackle.”
+"With two ships, I clear the backlog in a month. Then two ships starve. The Moon throws three bowls a month, señor. Maybe six by summer."
 
-“You lost one of my bowls?” Li asked.
+"Design me the port anyway. Rails, a graving dock, ten ships. Cost it for a hundred bowls a month."
 
-“No, ma’am. We recovered it. It took an extra week, but it is on a pedestal now, heading back to port.”
+Reyes laughed before he saw that the man was not joking. The laugh died in his chest.
 
-“Then what’s the problem?”
+"A hundred thousand tons a month," he said. "There isn't that much titanium coming. From anywhere."
 
-“Well, Felipe has suggested it before, and I agree, we need something sturdier.”
+"Titanium is what the Moon has. It isn't what I need most." Raines was looking at the bowl, but his eyes had gone somewhere much further away. "Tungsten. Tantalum. The metals Earth is running out of. The Moon never had them. Denser than this. Your bowls would be smaller."
 
-Darrin was drawing on his slate. “I’ve seen similar problems in the North Sea. A shackle works well in port, but at sea, a crossed shackle is much stronger.”
+"Smaller and denser tows easier." The professional part of him answered while the rest caught up. "The lift doesn't care what it is. It cares what it weighs and where it lands."
 
-Tseng agreed. “Of course. Next shipment, cross shackles, and heavier bars.”
+"Where it lands," Raines said, as if that were the whole point. "A flat mountain under forty miles of empty ocean. A ramp. Winches." He slipped the shard into his jacket pocket, the gesture small and unconscious. A man keeping a receipt. "On Monday, I had half a supply chain. Catch everything they throw, Señor Reyes."
 
-“*Gracias*. Tseng, if you can send Felipe the geometry, he is going to make specialized castings for the connector hardware for the crossed shackle. My current hardware is too weak, anyway.”
+He shook hands like a man closing a door and walked back up toward the helicopter.
 
-When José returned, Felipe had already processed the five bowls from Bajamar. They had a moment to talk.
+Reyes stood halfway down the ramp while it spooled up, lifted, and beat away north over the water. Mateo came down the rails.
 
-“José, the sheet metal is not so simple. I have ordered the equipment we will need, but it isn’t only the equipment. We need to hire more staff.”
+"Who was that?"
 
-“Of course.”
+"The man who buys the metal." Reyes looked at bowl seven, pale and clean on its cradle. Then at the ocean, where two more waited at the summit of a drowned mountain. A hundred bowls a month, of something the Moon could not make. He didn't know where Raines meant to get it. He was suddenly sure Raines knew.
 
-“Yes, well, the men we need are specialists. Harder to place. And it is not just the staff, either. This has to be done in a separate building. That is the only way to deliver high-purity titanium sheets. I made an offer on the marine supply shop behind us. I think they will take it. Then I will need to build a new building and extend a connection to it.”
+"Turn the ship around," he said. "The Moon throws again in nine days."
 
-“I like the maritime supply shop. They make our gear.”
-
-“They still will, but from a new storefront.”
-
-“I wanted to make sheet metal this month, or worst case, next month. Now it sounds like it may take six months.”
-
-“No, carnal. I will not leave you waiting for six months. But you need to know the constraints.”
-
-“*Gracias*.”
-
-“How is Maria?”
-
-“She has bills to pay, and nothing to pay them with. And I am gone more than ever.”
-
-“It’s not easy.”
-
-“How is Lupita?”
-
-“She is doing well. Speaking of Lupita, I need you to come with me for dinner at her father’s house.”
-
-“Of course. Should I bring Maria?”
-
-“Yes, and your children.”
-
-“And my children? Is there a special occasion?”
-
-“*La Petición de Mano.*”
-
-“*¡Felicidades, carnal\! Ya era hora, ¿no?*”
-
-“*Si*, I should have done this a year ago. But, *mano*, I need to show you something.”
-
-They walked back to the main office.
-
-“When we processed the titanium last month, we got a pile of alpha case millings and copper-contaminated swarf.”
-
-“We were pretty efficient. How much swarf was there?” 
-
-“Less than half a percent, but that was still thirty tons.”
-
-“What did you do?”
-
-“I talked to a buyer at ArcelorMittal. They wanted titanium since Elin has been buying it all up. They gave me a finder’s fee off the books.”
-
-“How much are we talking about?”
-
-“See those two duffel bags?”
-
-José opened one, finding mostly five-hundred and two-hundred peso notes. “Well done, Carnal.”
-
-“Bring one to Maria and see if it brightens her day. For me, I think mine is enough to start a family.”
-
-José ate dinner at home that night. “Maria, work is not going to get easier for me. But last month’s load sold, and Acero del Pacífico is now solvent.”
-
-Maria looked up at him in tears. “José, they set a date. We have to pay in a week, or they will force us out.”
-
-José dragged out the duffel bag and set it beside his wife. “This is for you. It is enough to keep the villa.”
-
-Maria opened the bag of cash. She cried and hugged him. “We still miss you.”
-
-José fell asleep watching TV. 
-
-When he came into the office the next day, his secretary updated him. “José, you have a visitor.”
-
-“It seems I always do. Can I meet him after lunch?”
-
-“No, not this visitor. I sent him into your office. He has been there half an hour already. You’ll want to see him.”
-
-“Marcia, we’ve discussed this. Do not let visitors into my office.”
-
-“I think this was the right time to make an exception.”
-
-José walked into his office. A tall, blond man was staring out the window overlooking the Acero del Pacífico docks. José cleared his throat. “*Buenos días, Señor.*”
-
-The man turned to face him. Tobias Raines. José dropped his coffee.
-
-“I was just looking at your dock here. You import steel from Asia?”
-
-“Yes, that is my business. And some small fabrication jobs.”
-
-“I see. I talked to Dr. Sarai last night. She mentioned you had just sent her over fifteen thousand tons of titanium. Nice job for a steel importer.”
-
-“Yes. Thank you, sir. Elin has been very generous. I hope to do more for her.”
-
-“I hope you do, but I am curious. Where is the titanium coming from? I am looking at your fleet. You are doing marine salvage?”
-
-“Yes. Salvage. I find the titanium on the ocean floor.”
-
-Raines looked away. “I notice most of the money goes to an offshore account, and the rest goes to Acero del Pacífico’s Banorte account.” 
-
-“Yes, I only get a portion.”
-
-“That offshore account, I know it. I buy *³He* from that account. The most prolific miner on the Moon. But I don’t know his name.”
-
-“It’s not a man, it’s a woman. Tan. She said she would drop high-purity titanium on the ocean floor. I pick it up. She gets eighty percent of the ingot fair value, I cover all expenses and losses, and keep the rest.”
-
-José went over the details, Tseng’s bowl designs, and the salvage process. He took Raines on a tour of *Peces de la Luna.*
-
-“Why did you use LNG?”
-
-“It is six hundred tons lighter than MGO, which helps. It cuts maintenance costs on my engines. But, mostly, the fuel costs half as much. This is a steel mill. I already have gas mains. That is also why I have a cogen plant and a hydrogen reformer.”
-
-“Rubble ballast?”
-
-“I need three hundred tons of ballast per recovery. I wanted something inexpensive. I have a barge collecting construction rubble. People pay me to take it.”
-
-“Doesn’t it wreck your hull?”
-
-“I deadbed with silt from channel dredges. It’s worked out well. I rake it when I get back to port.”
-
-“You’ve built a very nice system. I have a question for you. What would you think of expanding your recovery operation?”
-
-“Well, sir, *Peces de la Luna* is built for ten recoveries. I could go out more often, but Tseng only launches once per month.”
-
-“What if it were someone other than Tseng launching, and the metals were something other than titanium?”
-
-“I am completely ready for any metal, if they follow Tseng’s design.” 
-
-Raines knew he wasn’t.
-
-“I’m not ready to ship now. I won’t be for a couple of years, at least. But when I am, we can do good business, if you don’t mind expanding.”
-
-“Yes, sir. If I need to expand my fleet, can you give me notice with a contract I can show a bank?”
-
-“We can do that. We can do much better than that.” 
-
-They shook hands.
+That night the Moon rose over the winch houses, gibbous and hard-edged. Reyes caught himself reading it the way he used to read weather. Work coming. Then he went back to the loading list.
 
 ##

@@ -390,7 +390,7 @@ Darrin gave them an overview. “Earth sees this as a titanium operation. That i
 
 The crew performed well. Drilling, transport, sorting, smelting, they followed protocol, worked efficiently, and made no excuses. Darrin and Knox were both impressed.
 
-Darrin’s mass driver differed from the Ceres design, but the operation was the same. The crew loaded the mass drivers and waited to watch as the thousand-ton payloads were launched towards Earth, delivering metal on target in the central Pacific.
+Darrin’s mass driver differed from the Ceres design, but the operation was the same. The crew loaded the mass drivers and waited to watch as the thousand-ton payloads were launched towards Earth, delivering metal on target in the Pacific.
 
 They trained on the crater walls too, rock climbing in pressure suits, cutting ore from vertical faces. The suits were uncomfortable, but they adapted.
 
